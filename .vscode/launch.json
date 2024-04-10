@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "src.main.java.Game",
+            "projectName": "Tetris_4a8b00df"
+        },
+        {
+            "type": "java",
+            "name": "Board",
+            "request": "launch",
+            "mainClass": "src.main.java.Board",
+            "projectName": "Tetris_4a8b00df"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.main.java.Main",
+            "projectName": "Tetris_4a8b00df"
+        },
+        {
+            "type": "java",
+            "name": "TetrisGame",
+            "request": "launch",
+            "mainClass": "src.main.java.TetrisGame",
+            "projectName": "Tetris_4a8b00df"
+        }
+    ]
+}
